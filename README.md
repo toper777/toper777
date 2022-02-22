@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Tikhon
+- 🌱 I’m currently learning Python and SQL
